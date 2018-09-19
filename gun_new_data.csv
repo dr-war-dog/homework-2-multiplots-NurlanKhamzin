@@ -1,0 +1,22 @@
+date,state,city_or_county,n_killed,n_injured,congressional_district,latitude,longitude
+01.01.2013,Pennsylvania,Mckeesport,0,4,14,40.3467,-79.8559
+01.01.2013,California,Hawthorne,1,3,43,33.909,-118.333
+01.01.2013,Ohio,Lorain,1,3,9,41.4455,-82.1377
+01.05.2013,Colorado,Aurora,4,0,6,39.6518,-104.802
+01.07.2013,North Carolina,Greensboro,2,2,6,36.114,-79.9569
+01.07.2013,Oklahoma,Tulsa,4,0,1,36.2405,-95.9768
+01.19.2013,New Mexico,Albuquerque,5,0,1,34.9791,-106.716
+01.21.2013,Louisiana,New Orleans,0,5,2,29.9435,-90.0836
+01.21.2013,California,Brentwood,0,4,9,37.9656,-121.718
+01.23.2013,Maryland,Baltimore,1,6,7,39.2899,-76.6412
+01.23.2013,Tennessee,Chattanooga,1,3,3,35.0221,-85.2697
+01.25.2013,Missouri,Saint Louis,1,3,1,38.7067,-90.2494
+01.26.2013,Louisiana,Charenton,2,3,3,29.8816,-91.5251
+01.26.2013,District of Columbia,Washington,0,5,1,38.8978,-76.9717
+01.26.2013,Ohio,Springfield,1,3,8,39.9252,-83.8218
+02.02.2013,Tennessee,Memphis,0,5,9,35.0803,-89.8871
+02.03.2013,California,Yuba (county),1,3,3,39.1236,-121.583
+02.07.2013,Illinois,Chicago,0,4,2,41.7592,-87.5628
+02.09.2013,Louisiana,New Orleans,0,4,2,29.9563,-90.0676
+02.11.2013,California,Vallejo,1,4,5,38.1072,-122.228
+02.11.2013,Delaware,Wilmington,3,2,1,39.7407,-75.5499
